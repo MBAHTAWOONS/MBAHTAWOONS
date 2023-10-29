@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MBAHTAWOONS, I am an lower intermediate python users
+- 👋 Hi, I’m Dean, I am an python users
 - 👀 I’m interested in develop my skill into Data Scientist, and to be advanced in python, furthermore want to learn AI
 - 🌱 I’m currently learning machine learning in a bootcamp, hope finished ASAP
 - 💞️ I’m looking to collaborate on our work if possible
